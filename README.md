@@ -2,8 +2,8 @@
 
 ## Group Members
 
-- Student 1: 20220808071
-- Student 2: 20220808074
+- Student 1: 20220808071 - Burak Büyükelçi
+- Student 2: 20220808074 - Mert Osman Ayhan
 
 ## Algorithm Assignment
 
